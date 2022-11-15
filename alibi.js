@@ -1,0 +1,1 @@
+let removeOddElements = arr => arr.filter(item => item % 2 === 0);
